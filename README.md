@@ -2,7 +2,7 @@
 <p align='center'>
 </p>
 
-<h3 align="left">I'm Tchasinga Balolebwami Jack</h3>
+<h3 align="left">I'm Tchasinga Balolebwami Jack < Full-Stack Developer />! </h3>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joel-kalema" width="400"/></p>
 
 <br>
@@ -15,10 +15,13 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🌱 I’m currently learning Web Development and other programming languages.
+- 🌱 I’m currently learning Web Development at **Microverse**
 - 👀 I’m interested in Learning new things in the Tech-world.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach me using this address g-amil **tchasingajacques@gmail.com**
+- 💬 &nbsp;Full address: Rwanda / City : Kigali / Av : Gisozi 
+- 📄 &nbsp;Please have a look at my [Résumé](https://tchasinga.github.io/Setup-first-mobile/) for more details about me. I'm open to feedback and suggestions!
+
 
 <br>
 
