@@ -75,7 +75,7 @@
 </a>
 </p>
 
-<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tchasinga&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="joel-kalema" /></p>
+<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tchasinga&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="tchasinga" /></p>
 
 <!-- <br>
 <h3>Trophies :-</h3>
