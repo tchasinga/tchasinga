@@ -21,7 +21,7 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 You can reach me using this address g-amil **tchasingajacques@gmail.com**
 - 💬 &nbsp;Full address: Rwanda / City : Kigali / Av : Gisozi 
-- 📄 &nbsp;Please have a look at my [Résumé](https://tchasinga.github.io/Setup-first-mobile/) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my [Résumé](https://balolebwami.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 
 <br>
