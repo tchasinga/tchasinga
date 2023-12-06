@@ -1,14 +1,14 @@
-<h2> Hello < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"> </h2>
+<h2> Hello, < Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"> </h2>
 <p align='center'>
    
 </p>
 
-<h3 align="left">I'm Tchasinga Balolebwami Jack < Full-Stack Developer />! </h3>
+<h3 align="left">I'm Tchasinga Balolebwami Jack, < Full-Stack Developer! </h3>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joel-kalema" width="400"/></p>
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=joel-kalema&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=joel-kalema&label=Profile%20views&color=0e75b6&style=flat"
     alt="joel-kalema" /> 
   </p>
 
@@ -16,12 +16,12 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- 🌱 I’m currently learning Web Development at **Microverse**
-- 👀 I’m interested in Learning new things in the Tech-world.
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 You can reach me using this address g-amil **tchasingajacques@gmail.com**
+- 🌱 I’m a full-stack web development from **Microverse**
+- 👀 I’m interested in learning new things in the tech world.
+- 💞️ I’m looking to collaborate on open-source projects.
+- 📫 You can reach me using this address: g-amil.tchasingajacques@gmail.com*
 - 💬 &nbsp;Full address: Rwanda / City : Kigali / Av : Gisozi 
-- 📄 &nbsp;Please have a look at my [Résumé](https://balolebwami.netlify.app/) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my résumé (https://balolebwami.netlify.app/) for more details about me. I'm open to feedback and suggestions!
 
 
 <br>
@@ -38,7 +38,7 @@
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Technologies and Tools
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
