@@ -19,9 +19,9 @@
 - 🌱 I’m a full-stack web development from **Microverse**
 - 👀 I’m interested in learning new things in the tech world.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 📫 You can reach me using this address gmail[](tchasingajacques@gmail.com)
+- 📫 You can reach me using this address gmail **tchasingajacques@gmail.com**
 - 💬 &nbsp;Full address: Rwanda / City : Kigali / Av : Gisozi 
-- 📄 &nbsp;Please have a look at my résumé[](https://balolebwami.netlify.app/) for more details about me. I'm open to feedback and suggestions!
+- 📄 &nbsp;Please have a look at my résumé[(https://balolebwami.netlify.app/)] for more details about me. I'm open to feedback and suggestions!
 
 
 <br>
