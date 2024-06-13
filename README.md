@@ -55,14 +55,23 @@
  
 
  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Nextjs](https://img.shields.io/badge/Nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Reactjs](https://img.shields.io/badge/Reactjs-%23061DAF.svg?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDb](https://img.shields.io/badge/MongoDb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mysql](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![ExpressJs](https://img.shields.io/badge/ExpressJs-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![Nestjs](https://img.shields.io/badge/Nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![React-native](https://img.shields.io/badge/Reactnative-%232D2D2D.svg?style=for-the-badge&logo=react&logoColor=white)
+![Css](https://img.shields.io/badge/Css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Html](https://img.shields.io/badge/Html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
